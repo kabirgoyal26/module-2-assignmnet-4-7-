@@ -1,0 +1,8 @@
+,overall_WAPE_%
+Oracle best-per-series (not achievable),8.55
+Single model: lgbm,9.25
+Single model: xgb,9.36
+Funnel (per-series selection),10.69
+Single model: prophet,12.41
+Single model: ets,14.02
+Single model: snaive,15.77

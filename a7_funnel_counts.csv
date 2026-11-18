@@ -1,0 +1,6 @@
+stage,entering,selected,passed_on
+S1 baseline: seasonal naive,70,7,63
+S2 statistical: Holt-Winters ETS,63,22,41
+S3 statistical: Prophet,41,7,34
+S4 ML: LightGBM / XGBoost (global),34,9,25
+FALLBACK (flag for review),25,25,0
